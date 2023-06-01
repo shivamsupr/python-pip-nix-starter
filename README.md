@@ -32,8 +32,6 @@ Every runtime dependencies are defined in the `shell.nix` file.
 
 ## PS: As per ChatGPT, using pip with nix isn't ideal.
 
-![response](./response.png)
-
 ---
 
 Inspired by [@rakshans1/python-starter](github.com/rakshans1/python-starter)
