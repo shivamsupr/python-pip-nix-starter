@@ -27,3 +27,13 @@ Every runtime dependencies are defined in the `shell.nix` file.
 #### Using setuptools and have setuptools.py
 
 - `pip install -e .`
+
+---
+
+## PS: As per ChatGPT, using pip with nix isn't ideal.
+
+![ChatGPT](chat-gpt.png)
+
+---
+
+Inspired by [@rakshans1/python-starter](github.com/rakshans1/python-starter)
