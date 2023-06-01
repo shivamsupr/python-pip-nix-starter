@@ -32,7 +32,7 @@ Every runtime dependencies are defined in the `shell.nix` file.
 
 ## PS: As per ChatGPT, using pip with nix isn't ideal.
 
-![ChatGPT](./chat-gpt.png)
+![response](./response.png)
 
 ---
 
